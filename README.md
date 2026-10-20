@@ -48,3 +48,9 @@ cd boletim-escolar-python
 # 3. Execute o programa
 python main.py
 ```
+O programa abrirá no terminal e solicitará as informações do aluno (nome, disciplina, notas dos bimestres, faltas). Ao final, exibirá o relatório com a média, frequência e situação.
+
+## 📸 Demonstração
+
+Exemplo de saída do programa:
+
