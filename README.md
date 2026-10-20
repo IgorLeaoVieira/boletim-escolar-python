@@ -54,6 +54,14 @@ O programa abrirá no terminal e solicitará as informações do aluno (nome, di
 
 Exemplo de saída do programa:
 <img width="190" height="226" alt="Captura de tela 2026-10-20 132122" src="https://github.com/user-attachments/assets/fa2b3951-5cb3-4432-9374-e874c0213822" />
+## 📂 Estrutura do Projeto
+```
+boletim-escolar-python/
+├── main.py             # Código principal do sistema
+├── README.md           # Este arquivo
+├── LICENSE             # Licença MIT
+└── .gitignore          # Arquivos ignorados pelo Git
+```
 
 ## 🤝 Contribuições
 
