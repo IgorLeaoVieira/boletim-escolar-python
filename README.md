@@ -46,3 +46,30 @@ cd boletim-escolar-python
 
 # 3. Execute o programa
 python main.py
+
+Digite o nome do aluno: Igor Leão Vieira
+Disciplina: Matemática
+1º bimestre: 7
+2º bimestre: 8
+3º bimestre: 6
+4º bimestre: 9
+Quantidade de faltas: 10
+
+RELATÓRIO FINAL
+Aluno: Igor Leão Vieira
+Disciplina: Matemática
+Média: 7.5
+Frequência: 95.0
+Situação: APROVADO
+
+boletim-escolar-python/
+├── main.py             # Código principal do sistema
+├── README.md           # Este arquivo
+├── LICENSE             # Licença MIT
+└── .gitignore          # Arquivos ignorados pelo Git
+
+
+1.progamação de computadores
+2.tecnologo, ads
+3.2026.1
+
