@@ -47,3 +47,4 @@ cd boletim-escolar-python
 
 # 3. Execute o programa
 python main.py
+````
