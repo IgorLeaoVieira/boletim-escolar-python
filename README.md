@@ -6,7 +6,7 @@ O **Boletim Escolar** é um sistema simples de gestão escolar desenvolvido em P
 
 ## 🎯 Contexto e Motivação
 
-Este projeto foi desenvolvido como trabalho prático da disciplina de [nome da disciplina] do curso de [seu curso], no semestre [2026.1]. A proposta era criar uma solução que aplicasse os conceitos aprendidos em sala — como funções, listas, condicionais e entrada/saída de dados — em um cenário real de gestão escolar.
+Este projeto foi desenvolvido como trabalho prático da disciplina de progamação de computadores do curso de tecnologo ads, no semestre 2026.1. A proposta era criar uma solução que aplicasse os conceitos aprendidos em sala — como funções, listas, condicionais e entrada/saída de dados — em um cenário real de gestão escolar.
 
 ## 👥 Integrantes da Equipe
 
@@ -67,9 +67,3 @@ boletim-escolar-python/
 ├── README.md           # Este arquivo
 ├── LICENSE             # Licença MIT
 └── .gitignore          # Arquivos ignorados pelo Git
-
-
-1.progamação de computadores
-2.tecnologo, ads
-3.2026.1
-
