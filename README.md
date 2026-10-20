@@ -55,3 +55,17 @@ O programa abrirá no terminal e solicitará as informações do aluno (nome, di
 Exemplo de saída do programa:
 <img width="190" height="226" alt="Captura de tela 2026-10-20 132122" src="https://github.com/user-attachments/assets/fa2b3951-5cb3-4432-9374-e874c0213822" />
 
+## 🤝 Contribuições
+
+Este é um projeto acadêmico, mas sugestões e feedbacks são bem-vindos. Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👤 Autor
+
+**Igor Leão Vieira**
+- GitHub: [@IgorLeaoVieira](https://github.com/IgorLeaoVieira)
+- E-mail: igorleaovieira66@gmail.com
+
