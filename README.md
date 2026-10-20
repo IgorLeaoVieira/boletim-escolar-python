@@ -1,19 +1,48 @@
-# boletim-escolar-python
-Sistema simples de gestão escolar feito em Python.
-## Integrantes da equipe
+# 📊 Boletim Escolar — Sistema de Gestão Escolar em Python
 
-* Davi Cauê Almeida da Silva
+## 📌 Visão Geral
 
-https://github.com/davicauezz
+O **Boletim Escolar** é um sistema simples de gestão escolar desenvolvido em Python. O programa permite cadastrar alunos, lançar notas dos quatro bimestres, calcular a média final, registrar a frequência e informar a situação do aluno (aprovado ou reprovado). O objetivo é resolver o problema de organização manual de notas e frequência em pequenas instituições de ensino, praticando lógica de programação, funções e estruturas de repetição.
 
-* Gabriel Hansel Pimenta da Silva
-https://github.com/gabrielhansel15-hue /Banco-de-dados-escolar-
+## 🎯 Contexto e Motivação
 
-* Igor de Souza Leão Vieira
-https://github.com/IgorLeaoVieira/boletim-escolar-python
+Este projeto foi desenvolvido como trabalho prático da disciplina de [nome da disciplina] do curso de [seu curso], no semestre [2026.1]. A proposta era criar uma solução que aplicasse os conceitos aprendidos em sala — como funções, listas, condicionais e entrada/saída de dados — em um cenário real de gestão escolar.
 
-* Pedro Gabriel França Carneiro
-https://github.com/PedroGFCarneiro/boletim -escolar-python
+## 👥 Integrantes da Equipe
 
-* Roniel Ferreira Ribas
-https://github.com/ferreiraroniel220-eng /boletim-escolar-python
+- Davi Cauê Almeida da Silva — [@davicauezz](https://github.com/davicauezz)
+- Gabriel Hansel Pimenta da Silva — [@gabrielhansel15-hue](https://github.com/gabrielhansel15-hue)
+- Igor de Souza Leão Vieira — [@IgorLeaoVieira](https://github.com/IgorLeaoVieira)
+- Pedro Gabriel França Carneiro — [@PedroGFCarneiro](https://github.com/PedroGFCarneiro)
+- Roniel Ferreira Ribas — [@ferreiraroniel220-eng](https://github.com/ferreiraroniel220-eng)
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3.x** — linguagem principal
+- **Terminal/CLI** — interface de uso (entrada e saída via `input()` e `print()`)
+
+## ⚙️ Funcionalidades
+
+- Cadastro de alunos e disciplinas
+- Lançamento das notas dos 4 bimestres
+- Cálculo da média final
+- Registro de faltas e cálculo de frequência
+- Verificação da situação do aluno (aprovado/reprovado por nota ou por falta)
+- Geração de relatório final no terminal
+
+## 🚀 Como Executar
+
+### Pré-requisitos
+- Python 3.8 ou superior instalado
+
+### Passo a passo
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/IgorLeaoVieira/boletim-escolar-python.git
+
+# 2. Entre na pasta do projeto
+cd boletim-escolar-python
+
+# 3. Execute o programa
+python main.py
