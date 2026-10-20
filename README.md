@@ -76,4 +76,5 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 **Igor Leão Vieira**
 - GitHub: [@IgorLeaoVieira](https://github.com/IgorLeaoVieira)
 - E-mail: igorleaovieira66@gmail.com
+- www.linkedin.com/in/igor-leão-86672b256
 
