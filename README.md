@@ -6,7 +6,7 @@ O **Boletim Escolar** é um sistema simples de gestão escolar desenvolvido em P
 
 ## 🎯 Contexto e Motivação
 
-Este projeto foi desenvolvido como trabalho prático da disciplina de progamação de computadores do curso de tecnologo ads, no semestre 2026.1. A proposta era criar uma solução que aplicasse os conceitos aprendidos em sala — como funções, listas, condicionais e entrada/saída de dados — em um cenário real de gestão escolar.
+Este projeto foi desenvolvido como trabalho prático da disciplina de **Programação de Computadores** do curso de **Tecnólogo em ADS**, no semestre **2026.1**. A proposta era criar uma solução que aplicasse os conceitos aprendidos em sala — como funções, listas, condicionais e entrada/saída de dados — em um cenário real de gestão escolar.
 
 ## 👥 Integrantes da Equipe
 
@@ -33,6 +33,7 @@ Este projeto foi desenvolvido como trabalho prático da disciplina de progamaç�
 ## 🚀 Como Executar
 
 ### Pré-requisitos
+
 - Python 3.8 ou superior instalado
 
 ### Passo a passo
@@ -46,24 +47,3 @@ cd boletim-escolar-python
 
 # 3. Execute o programa
 python main.py
-
-Digite o nome do aluno: Igor Leão Vieira
-Disciplina: Matemática
-1º bimestre: 7
-2º bimestre: 8
-3º bimestre: 6
-4º bimestre: 9
-Quantidade de faltas: 10
-
-RELATÓRIO FINAL
-Aluno: Igor Leão Vieira
-Disciplina: Matemática
-Média: 7.5
-Frequência: 95.0
-Situação: APROVADO
-
-boletim-escolar-python/
-├── main.py             # Código principal do sistema
-├── README.md           # Este arquivo
-├── LICENSE             # Licença MIT
-└── .gitignore          # Arquivos ignorados pelo Git
